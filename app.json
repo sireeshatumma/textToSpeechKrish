@@ -1,0 +1,31 @@
+
+{
+  "expo": {
+    "name": "TextToSpeech",
+    "slug": "snack-fe35b364-654f-4627-b61e-420ba559434f",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/textToSpeech.png",
+    "splash": {
+      "image": "./assets/ks2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00000f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.KrishS.textToSpeech"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.KrishS.textToSpeech"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
